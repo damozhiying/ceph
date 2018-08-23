@@ -1,0 +1,10 @@
+ceph:
+  gateway: 10.10.1.11:80
+  accessKey: JH5EU5GAVOMHPHXX81B1
+  secretKey: RrBevoZ1oce6GrRjUgsVaD6YyFi9pZhvfO6UNqFr
+  
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  

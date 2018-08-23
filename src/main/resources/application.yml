@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: ceph-file-service
+server:
+  port: 8090
+
+
