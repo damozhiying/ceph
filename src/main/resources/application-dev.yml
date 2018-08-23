@@ -1,5 +1,5 @@
 ceph:
-  gateway: 10.10.1.11:80
+  gateway: 127.0.0.1:80
   accessKey: JH5EU5GAVOMHPHXX81B1
   secretKey: RrBevoZ1oce6GrRjUgsVaD6YyFi9pZhvfO6UNqFr
   
